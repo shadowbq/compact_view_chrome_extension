@@ -4,7 +4,10 @@ This is the source for a compressed view chrome extension.
 
 ## Developer
 
-Build: 
+### Dependencies:
+* jq, zip, git.
+
+### Build: 
 * checkout the repo
 * run `Build.sh` in the repo directory.
 
@@ -26,6 +29,3 @@ https://chrome.google.com/webstore/developer/dashboard
 https://chrome.google.com/webstore/developer/edit/npdfmcdicjcimlknokcglcobjbckkmkh
 
 ![Screenshot](external/Chrome_Developer_Web_Store.png?raw=true "Compact View")
-
-
-

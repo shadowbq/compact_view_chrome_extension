@@ -25,12 +25,5 @@ https://chrome.google.com/webstore/developer/edit/npdfmcdicjcimlknokcglcobjbckkm
 
 ![Screenshot](external/Chrome_Developer_Web_Store.png?raw=true "Compact View")
 
-### ZIP the directory
-
-ZIP only -> `./extension/`
-
-Uploading an item:
-Upload a ZIP file of your item directory, not a packaged CRX file.
-Include a well-designed product icon in your manifest (more info).
 
 

@@ -1,0 +1,310 @@
+/*------------------------*/
+/* font size */
+.ms-font-xxl{
+    font-size: 26px !important;
+}
+.conductorContent .ms-font-l{
+    font-size: 14px !important;
+}
+.conductorContent .ms-font-m{
+    font-size: 13px !important;
+}
+.conductorContent .ms-font-s{
+    font-size: 11px !important;
+}
+
+/*------------------------*/
+/* header */
+/*
+.ms-icon-modifier-doughboy.ms-icon-font-size-50, .ms-icon-modifier-doughboy.ms-icon-font-size-50:before {
+    height: 40px;
+    width: 40px;
+}
+.ms-icon-font-size-50 {
+    font-size: 40px!important;
+}
+._ho2_6 {
+    width: auto;
+    margin: 0 10px 0 6px;
+}
+*/
+
+/*------------------------*/
+/* folder list */
+
+/*------------------------*/
+/* container */
+._n_v1 _n_b1 div:last-child{ 
+    top: 42px !important;
+}
+/*------------------------*/
+/* Context Menu */
+.contextMenuDropShadow {
+    box-shadow: 0 0 1px rgba(0,0,0,0.2);
+    border: 1px solid #d8d8d8;
+}
+
+/* "today", "yesterday", and day container */
+._lvv_Z1 {
+    line-height: 20px !important;
+    border-bottom: 1px solid #ddd !important;
+}
+
+/*------------------------*/
+/* Message List View */
+/*------------------------*/
+/* mail container */
+._lvv_x1 {
+    top: 0px !important;
+    height: 39px !important;
+    border-bottom: 1px solid #e0e0e0 !important;
+}
+/* unread marker */
+._lvv_A1 {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 4px !important;
+    height: 38px !important;
+}
+/* mail container with preview text */
+._lvv_x1._lvv_y1 {
+    height: 59px !important;
+    border-bottom: 1px solid #e0e0e0 !important;
+}
+/* unread marker with preview text */
+._lvv_y1 ._lvv_A1 {
+    height: 58px !important;
+}
+/* preview text conteiner */
+._lvv_F1 ._lvv_L1{
+	height: 18px !important;
+}
+._lvv_L1 {
+	margin-top: 1px !important;
+}
+/* mail title area */
+._lvv_G {
+    height: 17px !important;
+    padding: 3px 0 0 0 !important;
+}
+/* mail title area with preview text */
+._lvv_D1 {
+    height: 17px !important;
+    padding: 3px 0 0 0 !important;
+}
+
+/* mail title text */
+._lvv_F1 ._lvv_E1 {
+    margin-top: 1px !important;
+    height: 17px !important;
+}
+/* checkbox */
+._lvv_B1 {
+	top: 1px !important;
+    padding-top: 0px !important;
+}
+
+/*------------------------*/
+/* Thread View */
+/*------------------------*/
+/* mail container */
+._lvv_w {
+    top: 0px !important;
+    height: 39px !important;
+    border-bottom: 1px solid #ddd !important;
+}
+/* unread marker */
+._lvv_A {
+    height: 39px !important;
+}
+/* mail container with preview text */
+._lvv_w._lvv_x {
+    height: 59px !important;
+    border-bottom: 1px solid #ddd !important;
+}
+/* unread marker with preview text */
+._lvv_x ._lvv_A { 
+    height: 59px !important;
+}
+/* checkbox */
+._lvv_B {
+	top: 1px;
+    padding-top: 0px;
+}
+/* history */
+._elv_l { /* container*/
+	height: 23px;
+}
+._elv_n { /* history icon (history icon is background-image)*/
+	height: 23px;
+    margin-top: -4px
+}
+._elv_w { /* checkbox */
+	top: 1px !important;
+}
+._elv_r { /* return icon */
+	top: 0px !important;
+}
+._elv_L { /* sender */
+	margin: 3px 0 0 0 !important;
+}
+._elv_H, ._elv_I { /* folder */
+	top: 4px !important;
+}
+
+
+._n_Z {
+    position: relative;
+    margin: 0px 0 0 0 !important;
+    height: 38px !important;
+}
+
+._n_G4 {
+    height: 100% !important;
+}
+
+._rp_l2 {
+    outline: none !important;
+    padding: 0px !important;
+}
+
+._rp_g {
+    padding: 7px 14px 0 0 !important;
+    margin: 0 0 0 12px !important;
+}
+
+.ms-font-xl {
+    font-weight: bolder !important;
+    font-style: italic !important;
+}
+
+._n_j1 {
+    overflow: visible !important;
+}
+
+.o365cs-nav-header16 {
+    width: 100%;
+    height: 25px !important;
+    display: table;
+    border-spacing: 0;
+    font-size: 0;
+    white-space: nowrap;
+    line-height: normal;
+}
+
+
+.o365cs-nav-header16 {
+    height: 25px !important;
+}  
+
+.o365cs-nav-header16 {
+     font-size: 18px !important;
+     /*line-height: 18px;*/
+}
+
+.o365cs-nav-header16 .o365cs-nav-brandingText {
+     font-size: 18px !important;
+}    
+
+.o365cs-nav-header16 .o365cs-nav-button {
+    height: 25px !important;
+}
+
+
+.o365cs-nav-header16 .o365cs-nav-bposLogo {
+    height: 25px !important;
+}
+
+.o365cs-nav-header16 .o365cs-nav-brandingText {
+    line-height: 23px !important;
+}    
+
+.o365cs-nav-header16 .o365cs-nav-appTitleLine {
+    height: 20px !important;
+}
+
+.o365cs-nav-header16 .o365cs-nav-appTitle {
+    height: 25px !important;
+}
+
+.o365cs-settingsPanel-overlay {
+    height: 25px !important;
+    top: 25px !important;
+}    
+
+div._n_f {
+    top: 25px !important;
+}    
+
+.o365cs-mfp-circular-small {
+    width: 15px !important;
+    height: 15px !important;
+}
+
+.o365cs-mfp-doughboy {
+    font-size: 12px !important;
+    position: static !important;
+}
+
+.o365cs-mfp-presenceButton {
+    top: 14px !important;
+    right: 5px !important;
+    border-radius: 10px !important;
+    height: 4px !important;
+    width: 4px !important;
+    position: absolute !important;
+    text-align: center !important;
+    font-size: 11px!important;
+}
+
+._n_T2 ._n_U2, ._n_T2 ._n_V2, ._n_T2._n_W2 ._n_X2 {
+    top: 43px !important;
+}
+
+.ms-bgc-tp {
+    height: 26px !important;
+}
+
+
+
+#primaryHeaderView {
+    height: 27px !important;
+}
+
+#GoToNextRegion {
+    top: 25px !important;
+}
+
+#primaryContainer > div:nth-child(7) {
+    top: 26px !important;
+}    
+
+/* hamburger */
+div.o365cs-newALV2-on.o365cs-nav-navMenu {
+    top: 25px !important;
+}
+
+.o365cs-nav-appTileBackground {
+    height: 88px !important;
+}
+
+.o365cs-nav-appItemGroup .o365cs-nav-appItem .o365cs-nav-appTileBackground {
+    height: 44px !important;
+}
+
+
+/* Remove Date Seperators? */
+
+._lvv_42 {
+    display: none !important;
+}    
+
+/* Smaller bubbles */
+
+._pe_22 ._pe_W1 {
+    height: 25px;
+    width: 25px;
+    font-size: 10px;
+    line-height: 25px;
+}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Options</title>
+    <link rel="stylesheet" type="text/css" href="css/options.css">
+    <script type="text/javascript" src="js/jquery-1.8.0.min.js"></script>
+    <script type="text/javascript" src="js/options.js"></script>
+</head>
+
+<body>
+    <div class="header">
+        <div class="logo-area">
+            <div class="logo"></div>
+        </div>
+    </div>
+    <div class="main">
+        <div class="title">
+            Extension Options
+        </div>
+        <div class="op-section">
+            <div>
+                <h1 class="style1">Office365 Outlook Compact View &nbsp;</h1>
+                <!-- <button class="top_options" id="linkOtherOptions" disabled>Options  <span style="font-weight: bold">[disabled]</span></button> |-->
+                <button class="top_options" id="linkAbout">About</button>
+                <br />
+            </div>
+
+            <div id="page1" style="display:none">
+
+                <div class="section-title">
+                    Style Options <span style="font-weight: bold">[disabled]</span>
+                </div>
+                <div id="opt-group1">
+                    <label for="check-DateSeperator" class="form-checkbox">
+                      <input id="check-DateSeperator" type="checkbox"  />
+                      <span style="font-weight: bold">[disabled]</span> Show Date Seperators
+                      <b></b>
+                    </label>
+                    <label for="check-Gravatar" class="form-checkbox">
+                      <input id="check-Gravatar" type="checkbox" disabled />
+                      <span style="font-weight: bold">[disabled]</span>Show Icons and User Gravatars
+                      <b></b>
+                    </label>
+                    <label for="check-actionMenu" class="form-checkbox">
+                      <input id="check-actionMenu" type="checkbox" disabled />
+                      <span style="font-weight: bold">[disabled]</span>Show Larger Action Menus
+                      <b></b>
+                    </label>
+                </div>
+            </div>
+
+            <div id="page2" style="display:none">
+
+                <div class="contain">
+                    <h3 id='title-about'>About the extension - v </h3>
+                    <p>
+                        <a href="https://chrome.google.com/webstore/detail/npdfmcdicjcimlknokcglcobjbckkmkh" target="_blank">Extension on Google Store</a>
+                    </p>
+                    <p>
+                        <a href="https://github.com/shadowbq/outlook_office365_compact_view_chrome_extension" target="_blank">Github: Private Development</a>
+                    </p>
+                    <br/>
+                    <p align="left">This is a custom style that provides a compact view for outlook office365. The style will reduce whitespace, margins, borders, icons to maximize your workspace.</p><br/>
+                    <p align="left">Currently enabled on :
+                        <ul align="left" style="margin-left: 30px;">
+                            <li style="height:20px;list-style: disc;background-color: transparent;">http://outlook.live.com</li>
+                            <li style="height:20px;list-style: disc;background-color: transparent;">https://outlook.live.com</li>
+                            <li style="height:20px;list-style: disc;background-color: transparent;">http://outlook.office.com</li>
+                            <li style="height:20px;list-style: disc;background-color: transparent;">https://outlook.office.com</li>
+                            <li style="height:20px;list-style: disc;background-color: transparent;">http://outlook.office365.com</li>
+                            <li style="height:20px;list-style: disc;background-color: transparent;">https://outlook.office365.com</li>
+                        </ul>
+                    </p><br/>
+                    <p align="left">Why use Compact Views:
+                        <ul align="left" style="margin-left: 30px;">
+                            <li style="height:20px;list-style: disc;background-color: transparent;">Improve overall use of workspace by limiting pagination, and scrolling.</li>
+                            <li style="height:20px;list-style: disc;background-color: transparent;">This really comes down to readability and what makes the most sense when glancing at the email screen</li>
+                            <li style="height:20px;list-style: disc;background-color: transparent;">Windows Desktop Outlook has an Inbox feature called Compact Layout why not Office365?</li>
+                        </ul>
+                    </p><br/>
+                    <h3>Shadowbq - shadowbq@gmail.com</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -4,7 +4,9 @@ This is the source for a compressed view chrome extension.
 
 ## Developer
 
-Copy the `extension` directory to `/home/shadowbq/extension/` hack, update `manifest.json`, add back to repo. 
+Build: 
+* checkout the repo
+* run `Build.sh` in the repo directory.
 
 ## Install 
 

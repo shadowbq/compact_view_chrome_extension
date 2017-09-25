@@ -9,6 +9,8 @@ This is the source for a compressed view chrome extension.
 
 ### Build: 
 * checkout the repo
+* Bump the version in `./extension/manifest.json`
+* git add / git commit 
 * run `Build.sh` in the repo directory.
 
 ## Install 

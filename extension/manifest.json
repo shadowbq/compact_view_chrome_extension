@@ -13,7 +13,7 @@
     "update_url": "https://clients2.google.com/service/update2/crx",
     "homepage_url": "https://chrome.google.com/webstore/detail/npdfmcdicjcimlknokcglcobjbckkmkh",
     "short_name": "O365 CV",
-    "version": "1.0.13",
+    "version": "1.0.15",
     "icons": {
         "128": "icon/128.png",
         "16": "icon/16.png",

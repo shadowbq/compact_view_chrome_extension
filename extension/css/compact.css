@@ -258,7 +258,11 @@ div._n_f {
     font-size: 11px!important;
 }
 
-._n_T2 ._n_U2, ._n_T2 ._n_V2, ._n_T2._n_W2 ._n_X2 {
+._n_T2 ._n_U2 {
+    top: 0px !important;
+}
+
+._n_T2 ._n_V2, ._n_T2._n_W2 ._n_X2 {
     top: 43px !important;
 }
 

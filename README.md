@@ -1,8 +1,10 @@
-# Outlook Office365.com Compact View Chrome Extension
+# Compact View Chrome Extension
 
-This is the source for a compressed view chrome extension.
+This is the source for a compressed view chrome extension for outlook on office365.com.
 
 ## Developer
+
+The developer has no association with office365, outlook, or microsoft. All trademarks of microsoft belong solely to microsoft.
 
 ### Dependencies:
 * jq, zip, git.

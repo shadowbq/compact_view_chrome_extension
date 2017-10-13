@@ -9,15 +9,15 @@ The developer has no association with office365, outlook, or microsoft. All trad
 ### Dependencies:
 * jq, zip, git.
 
-### Build: 
+### Build:
 * checkout the repo
 * Bump the version in `./extension/manifest.json`
-* git add / git commit 
+* git add / git commit
 * run `Build.sh` in the repo directory.
 
-## Install 
+## Install
 
-You can build a `.crx` if you want in `developler mode` or use the private link:
+You can build a `.crx` if you want in `developer mode` or use the private link:
 
 * https://chrome.google.com/webstore/detail/office365-outlook-compact/npdfmcdicjcimlknokcglcobjbckkmkh
 * https://chrome.google.com/webstore/detail/npdfmcdicjcimlknokcglcobjbckkmkh

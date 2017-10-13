@@ -13,21 +13,7 @@
     font-size: 11px !important;
 }
 
-/*------------------------*/
-/* header */
-/*
-.ms-icon-modifier-doughboy.ms-icon-font-size-50, .ms-icon-modifier-doughboy.ms-icon-font-size-50:before {
-    height: 40px;
-    width: 40px;
-}
-.ms-icon-font-size-50 {
-    font-size: 40px!important;
-}
-._ho2_6 {
-    width: auto;
-    margin: 0 10px 0 6px;
-}
-*/
+
 
 /*------------------------*/
 /* folder list */
@@ -297,6 +283,9 @@ div.o365cs-newALV2-on.o365cs-nav-navMenu {
     height: 44px !important;
 }
 
+.popupPanel.panelPopupShadow{
+    border: 2px solid #d8d8d8 !important;
+}
 
 /* Remove Date Seperators? */
 

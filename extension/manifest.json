@@ -8,12 +8,12 @@
         "run_at": "document_start"
     }],
     "options_page": "options.html",
-    "description": "Style Script for Outlook Office365 to create a compact view",
-    "name": "Office365 Outlook Compact View",
+    "description": "3rd Party Style Script for Microsoft Outlook in Office365 to create a more compact view.",
+    "name": "Compact View",
     "update_url": "https://clients2.google.com/service/update2/crx",
     "homepage_url": "https://chrome.google.com/webstore/detail/npdfmcdicjcimlknokcglcobjbckkmkh",
-    "short_name": "O365 CV",
-    "version": "1.0.15",
+    "short_name": "CompactView",
+    "version": "1.1.0",
     "icons": {
         "128": "icon/128.png",
         "16": "icon/16.png",
